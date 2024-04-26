@@ -57,19 +57,19 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Curso técnico de informática para internet",
+      "period": "Fev 2022 - dez 2024",
+      "description": "Cursei durante todo o meu ensino médio no SESI praticando e me familiarizando com as linguagens de programação mais usadas no desenvolvimento FrontEnd fazendo diversas aplicações e projetos práticos."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Formação JavaScript developer",
+      "period": "Fev 2024 - Abr 2024",
+      "description": "Essa foi uma formação de aprendizado da linguagem JavaScript da DIO que eu fiz aprendendo diversas funcionalidades da linguagem e a sua utilização em sites, APIs e na web. Junto também pratiquei e aprendi mais sobre CSS e HTML."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Desenvolvimento FrontEnd com Angular",
+      "period": "Jan 2024 - Fev 2024",
+      "description": "Este foi um bootcamp feito pela DIO em parceria com o banco Pan onde tive meu primeiro contato com um framework e pude enxergar mais como é feita a programação na web além de praticar e aprender mais sobre TypeScript, CSS e HTML."
     }
   ]
 }
