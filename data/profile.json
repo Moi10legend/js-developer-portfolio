@@ -40,14 +40,19 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Construindo uma Pokedéx",
+      "url": "https://github.com/Moi10legend/pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Lista de tarefas",
+      "url": "https://github.com/Moi10legend/to-do-list",
       "github": true
+    },
+    {
+      "name":"Clone do buzzfeed",
+      "url":"https://github.com/Moi10legend/clone-buzzfeed",
+      "github":true
     }
   ],
   "professionalExperience": [
